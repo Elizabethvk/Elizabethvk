@@ -7,6 +7,8 @@
     - Python
     - C# (Worked on a project)
     - Java 
+    - SQL
+    - HTML/CSS
     - Still Learning Frontend and Backend @ Sofia Univrsity FMI
     <br>
 - Graphic Design (professionally teaching children and teenagers)

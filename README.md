@@ -18,3 +18,5 @@
 ---
 ## 🖥️ 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ``` A full-time student @ Sofia University, FMI. As well as teaching assistant and mentor there. I do freelance work sometimes. :) ```
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elizabethvk)](https://github.com/Elizabethvk/github-readme-stats)

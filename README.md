@@ -4,21 +4,19 @@
 - HPC
 - Programming
     - C++
-    - Javascript (teaching it)
     - Python
+    - Web Development (React, NodeJS, TypeScript, JavaScript, HTML5, CSS3) (Professional experience)
+    - JavaScript (teaching it)
     - C# (Worked on a project)
-    - Java 
+    - Java (Team projects)
     - SQL
-    - HTML/CSS
-    - Still Learning Frontend and Backend @ Sofia Univrsity FMI
     <br>
 - Business & Finance
 - Graphic Design (professionally teaching children and teenagers)
 - Photography (casual)
     <br>
-- To be continued ...
 ---
 ## 🖥️ 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-``` A double degree Master's student @ Sofia University, FMI & FEBA. As well as teaching assistant and mentor there. I do freelance work sometimes. :) ```
+```  💻 EUMaster4HPC double degree @ Sofia University & Universitat Politècnica de Catalunya 🎓 Graduated - BSc Comp Sci | MSc Business Econ 📊 I do freelance work sometimes. :) ```
 
 

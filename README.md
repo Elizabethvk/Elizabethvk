@@ -1,4 +1,4 @@
-# Hello, world! I'm Elizabeth! ✨🐉
+# Hello, World! I'm Elizabeth! ✨🐉
 
 ## 🐱‍💻 Main interests:
 - HPC
